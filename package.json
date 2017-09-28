@@ -1,0 +1,19 @@
+{
+  "name": "babylonjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelheimer/babylonjs.git"
+  },
+  "author": "mikee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelheimer/babylonjs/issues"
+  },
+  "homepage": "https://github.com/michaelheimer/babylonjs#readme"
+}
